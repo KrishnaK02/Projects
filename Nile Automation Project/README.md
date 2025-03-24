@@ -15,23 +15,6 @@ Nile Inc. faced several operational inefficiencies:
 
 ---
 
-## 📂 Project Deliverables  
-### **📄 Documentation**
-- **[Nile Automation Project Documentation](./Nile_Automation_Project_Documentation.pdf)** – Full project report  
-
-### **📊 Flowcharts & Diagrams**
-- **Order Processing Flow** ![📂 View](./Diagrams/Order Processing Flow.png)  
-- **Inventory Management Flow** ![📂 View](./Diagrams/Inventory Management Flow.png)  
-- **Returns Management Flow** ![📂 View](./Diagrams/Returns Management Flow.png)  
-- **System Architecture Diagram** ![📂 View](./Diagrams/System Architecture.png)  
-- **Data Flow Diagram (DFD)** ![📂 View](./Diagrams/Data Flow Diagram.png)  
-
-### **📋 Jira Workflows & Agile Artifacts**
-- **Jira Backlog & Sprint Board** ![📂 View](./Jira_Screenshots/Jira_Backlog.png)  
-- **User Stories & Use Cases** (See documentation)  
-
----
-
 ## ⚙️ Key Features  
 ✅ **Automated Order Processing** – Faster fulfillment & real-time tracking  
 ✅ **Seamless Returns Handling** – Improves refund processing & customer satisfaction  
@@ -42,11 +25,3 @@ Nile Inc. faced several operational inefficiencies:
 ## 🛠️ Tools & Technologies Used  
 - **Project Management:** Jira, Confluence   
 - **Data Visualization:** Power BI, Tableau  
-
----
-
-## 📢 How to Use This Repository  
-### **1️⃣ Clone the Repository**
-```sh
-git clone https://github.com/your-username/Nile-Automation-Project.git
-
